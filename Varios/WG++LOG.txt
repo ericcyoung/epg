@@ -1,0 +1,38 @@
+<--- INICIO --->
+---   DM   ---
+[        ] Job (rex) finished at 19/10/2022 01:00:05 done in 3s
+---   VAR2   ---
+[        ] Job started at 19/10/2022 03:00:01
+[Warning ] error downloading page: Error getting response stream (ReadDoneAsync2): ReceiveFailure
+[Warning ] error downloading page: Error getting response stream (ReadDoneAsync2): ReceiveFailure
+[Warning ] pausing 1 of 2 times for 10 seconds before re-try.
+[        ] Job finished at 19/10/2022 03:09:00 done in 8m 59s
+[        ] Job (rex) finished at 19/10/2022 03:09:34 done in 21s
+---   VAR1   ---
+[        ] Job started at 19/10/2022 04:00:01
+[        ] Job finished at 19/10/2022 04:10:04 done in 10m 2s
+[        ] Job (rex) finished at 19/10/2022 04:10:22 done in 8s
+---   M3   ---
+[        ] Job started at 19/10/2022 05:30:01
+[        ] Job finished at 19/10/2022 05:41:08 done in 11m 7s
+[        ] Job (rex) finished at 19/10/2022 05:41:55 done in 31s
+---   M2   ---
+[        ] Job started at 19/10/2022 06:15:01
+[        ] Job finished at 19/10/2022 06:28:22 done in 13m 21s
+[        ] Job (rex) finished at 19/10/2022 06:29:15 done in 37s
+---   M1   ---
+[        ] Job started at 19/10/2022 07:00:01
+[        ] Job finished at 19/10/2022 07:39:36 done in 39m 34s
+[        ] Job (rex) finished at 19/10/2022 07:40:39 done in 44s
+---   M3   ---
+[        ] Job started at 19/10/2022 11:30:01
+[        ] Job finished at 19/10/2022 11:55:07 done in 25m 6s
+[        ] Job (rex) finished at 19/10/2022 11:56:01 done in 37s
+---   M2   ---
+[        ] Job started at 19/10/2022 12:15:01
+[        ] Job finished at 19/10/2022 12:36:04 done in 21m 3s
+[        ] Job (rex) finished at 19/10/2022 12:37:01 done in 40s
+---   M1   ---
+[        ] Job started at 19/10/2022 13:00:01
+[        ] Job finished at 19/10/2022 13:22:39 done in 22m 38s
+[        ] Job (rex) finished at 19/10/2022 13:23:43 done in 44s

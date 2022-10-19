@@ -1,0 +1,297 @@
+1 - La 1
+2 - La 2
+3 - Antena 3
+4 - Cuatro
+5 - Telecinco
+6 - La Sexta
+7 - M+ #0
+8 - M+ #Vamos
+9 - Bajo demanda
+11 - M+ Estrenos
+12 - M+ Estrenos 2
+13 - M+ BBC Earth
+15 - M+ Clásicos
+16 - M+ Acción
+17 - M+ Comedia
+18 - M+ Drama
+19 - M+ Cine Español
+20 - M+ Fest
+21 - La Resistencia 24H
+22 - TCM
+23 - Canal Hollywood
+25 - Sundance TV
+29 - Paramount Network
+31 - M+ Series
+32 - M+ Series 2
+33 - Fox
+34 - AXN
+35 - TNT
+36 - Comedy Central
+37 - Calle 13
+38 - Cosmo
+39 - AMC
+40 - AXN White
+41 - SyFy
+44 - Energy
+44 - Multideporte
+45 - Factoría de Ficción
+46 - Neox
+51 - M+ Ellas #V
+52 - M+ LaLiga
+53 - DAZN LaLiga
+54 - LaLiga SmartbankTV
+55 - M+ LaLiga 2
+56 - M+ Liga de Campeones
+57 - M+ Liga de Campeones 2
+58 - M+ Liga de Campeones 3
+59 - M+ Deportes
+60 - M+ Deportes 2
+61 - M+ Deportes 3
+62 - M+ Golf
+63 - DAZN F1
+64 - DAZN 1
+65 - DAZN 2
+66 - Eurosport 1
+67 - Eurosport 2
+69 - GOL PLAY
+70 - Teledeporte
+71 - Caza y Pesca
+72 - Iberalia TV
+73 - Toros
+74 - Real Madrid TV
+75 - Barça TV
+80 - National Geographic
+81 - Nat Geo Wild
+82 - Historia
+83 - Discovery
+84 - Odisea
+85 - AMC Break
+88 - AMC Crime
+90 - Canal Cocina
+91 - Decasa
+93 - Divinity
+94 - Nova
+96 - Be Mad
+109 - Nickelodeon Ukraine
+110 - Baby TV
+111 - Disney Junior
+112 - Canal Panda
+113 - Nick JR
+114 - Nickelodeon
+115 - Dreamworks
+116 - Disney Channel
+117 - Boing
+118 - Clan
+120 - MTV España
+121 - MTV 00s
+123 - Mezzo
+124 - Mezzo Live
+125 - Classica
+127 - 24 Horas
+128 - BBC World News Europe
+129 - CNN International Europe
+130 - Fox News
+131 - EuroNews Français
+132 - Al Jazeera English
+133 - France 24 English
+136 - CNBC Europe
+137 - TV5 Monde Europe
+138 - Bloomberg TV Europe
+139 - Sky News International
+144 - Arirang TV
+145 - NHK World TV
+147 - Cubavisión Internacional
+148 - Telesur
+151 - Canal Sur Andalucía
+152 - TVGA Europa
+153 - Canal Extremadura Sat
+156 - Aragón TV Internacional
+160 - #Vamos Bar
+161 - #Vamos Bar 2
+162 - #Vamos Bar 3
+163 - LaLiga TV Bar
+164 - LaLiga TV Bar 2
+165 - LaLiga TV Bar 3
+167 - M+ LaLiga 3
+172 - DAZN LaLiga 2
+177 - LaLiga SmartbankTV 2
+178 - LaLiga SmartbankTV 3
+180 - M+ Liga de Campeones 4
+181 - M+ Liga de Campeones 5
+182 - M+ Liga de Campeones 6
+183 - M+ Liga de Campeones 7
+184 - M+ Liga de Campeones 8
+185 - M+ Liga de Campeones 9
+186 - M+ Liga de Campeones 10
+187 - M+ Liga de Campeones 11
+188 - M+ Liga de Campeones 12
+189 - M+ Liga de Campeones 13
+190 - Playboy TV
+191 - M+ Deportes 4
+192 - M+ Deportes 5
+193 - M+ Deportes 6
+194 - M+ Deportes 7
+195 - M+ Deportes 8
+196 - DAZN 3
+197 - DAZN 4
+198 - Alquiler
+199 - Alquiler 1
+200 - Portada
+205 - 7 TV Región Murcia
+206 - À Punt
+207 - Aragón TV
+208 - TV Canaria
+209 - Canal Sur
+210 - Castilla la Mancha TV
+211 - La 7
+212 - ETB 1
+213 - Canal Extremadura
+214 - IB3 RTV Illes Balears
+215 - Telemadrid
+216 - TPA
+217 - TV3
+218 - TVG-TV Galicia
+219 - Andalucía TV
+220 - ETB 2
+221 - La Ocho TV
+222 - La Otra
+223 - TVG 2
+224 - XTRM
+226 - DARK
+227 - Somos
+228 - BOM Cine
+242 - TRECE
+247 - Atreseries
+276 - Horse TV
+277 - Nautical Channel
+278 - El Garage TV
+279 - UBEAT
+287 - DMAX
+292 - DKISS
+295 - Mega
+297 - Ten
+319 - ETB 3
+326 - Sol Música
+335 - 1+1 Internacional
+339 - El Toro TV
+340 - Negocios TV
+341 - CNC World
+342 - CGTN Español
+343 - Telefe Internacional
+344 - Canal de las Estrellas
+345 - TV Chile
+346 - TV Colombia
+349 - EWTN
+354 - TV3 Cat
+355 - ETB Sat
+357 - Telemadrid Int.
+358 - 8 TV
+363 - Canal 33
+364 - Esport 3
+365 - 3 24
+366 - Betevé
+399 - Canal Fútbol Replay
+MTV Hits
+MTV 80s
+SonLife Broadcasting Network
+MTV 90s
+Club MTV
+ETB 4
+VE PLUS TV
+FOX SPORTS
+FOX SPORTS 2
+FOX SPORTS 3
+Vivid TV
+Hustler TV
+Canal Series
+SELEKT
+Run Time
+Gametoon
+Love Nature
+Lolly Kids
+Myzen TV
+Fashion TV
+OUTtv
+Escapa TV
+INTI
+Trace Sports Stars
+Betis TV
+Fast&amp;FunBox
+FightSports
+Fight Box HD
+Extreme Sp
+Garage TV
+Speed Factor 4K
+Moto ADV
+QWest Mix
+AllFlamenco
+iConcerts
+Festival 4K
+Djazz
+Cazavisión
+7NN
+Telemadrid Int.
+Deutsche W
+Pro TV
+Caracol TV
+France 2
+France 5
+M6
+Gulli
+Sport TV+ POR
+Sport TV1 POR
+Sport TV2 POR
+Sport TV3 POR
+Sport TV4 POR
+Sport TV5 POR
+Sport TV6 POR
+Sport TV NBA POR
+Eleven Sports 1 POR
+Eleven Sports 2 POR
+Eleven Sports 3 POR
+Eleven Sports 4 POR
+Eleven Sports 5 POR
+Eleven Sports 6 POR
+ARTE FRA
+FRANCE 24 FRA
+I24 NEWS FRA
+MTV FRA
+RT FRANCE FRA
+BEIN SPORTS 1 FRA
+BEIN SPORTS 2 FRA
+BEIN SPORTS 3 FRA
+MULTISPORTS 1 FRA
+MULTISPORTS 2 FRA
+MULTISPORTS 3 FRA
+MULTISPORTS 4 FRA
+MULTISPORTS 5 FRA
+MULTISPORTS 6 FRA
+BEIN SPORTS MAX 4 FRA
+BEIN SPORTS MAX 5 FRA
+BEIN SPORTS MAX 6 FRA
+BEIN SPORTS MAX 7 FRA
+BEIN SPORTS MAX 8 FRA
+BEIN SPORTS MAX 9 FRA
+BEIN SPORTS MAX 10 FRA
+EUROSPORT 360 1 FRA
+EUROSPORT 360 2 FRA
+EUROSPORT 360 3 FRA
+EUROSPORT 360 4 FRA
+EUROSPORT 360 5 FRA
+EUROSPORT 360 6 FRA
+EUROSPORT 360 7 FRA
+EUROSPORT 360 8 FRA
+DAZN 1 GER
+DAZN 2 GER
+MTV GER
+Arte GER
+Sky Sport GER
+Sky Sport 1 GER
+Sky Sport 2 GER
+Sky Sport F1 GER
+Sky Sport Austria 1 GER
+Sky Sport Bundesliga 1 GER
+TRT Türk GER
+KiKa GER
+QVC GER
+RTL UHD

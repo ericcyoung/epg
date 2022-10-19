@@ -1,0 +1,90 @@
+<--- INICIO --->
+---   DM   ---
+[        ] Job (rex) finished at 18/10/2022 01:00:06 done in 3s
+---   VAR2   ---
+[        ] Job started at 18/10/2022 03:00:01
+[Warning ] error downloading page: Error getting response stream (ReadDoneAsync2): ReceiveFailure
+[Warning ] error downloading page: Error getting response stream (ReadDoneAsync2): ReceiveFailure
+[Warning ] pausing 1 of 2 times for 10 seconds before re-try.
+[        ] Job finished at 18/10/2022 03:09:00 done in 8m 58s
+[        ] Job (rex) finished at 18/10/2022 03:09:34 done in 21s
+---   VAR1   ---
+[        ] Job started at 18/10/2022 04:00:01
+[Error   ] Unable to update channel Sky News International
+[Error   ] Current culture: en-GB
+[Error   ] time parsing error : String was not recognized as a valid DateTime.
+[Error   ] nextstartdatetime time scrubbed : 
+[Error   ] computer date/time format: 18/10/2022 04:01:06
+[Error   ] Unable to update channel NHK World TV
+[Error   ] Current culture: en-GB
+[Error   ] time parsing error : String was not recognized as a valid DateTime.
+[Error   ] nextstartdatetime time scrubbed : 
+[Error   ] computer date/time format: 18/10/2022 04:04:58
+[        ] Job finished at 18/10/2022 04:05:55 done in 5m 53s
+[        ] Job (rex) finished at 18/10/2022 04:06:13 done in 8s
+---   M3   ---
+[        ] Job started at 18/10/2022 05:30:01
+[        ] Job finished at 18/10/2022 05:46:23 done in 16m 22s
+[        ] Job (rex) finished at 18/10/2022 05:47:14 done in 35s
+---   M2   ---
+[        ] Job started at 18/10/2022 06:15:01
+[        ] Job finished at 18/10/2022 06:35:07 done in 20m 6s
+[        ] Job (rex) finished at 18/10/2022 06:36:05 done in 41s
+---   M1   ---
+[        ] Job started at 18/10/2022 07:00:01
+[        ] Job finished at 18/10/2022 07:31:01 done in 30m 59s
+[        ] Job (rex) finished at 18/10/2022 07:32:03 done in 43s
+---   M3   ---
+[        ] Job started at 18/10/2022 11:30:01
+[        ] Job finished at 18/10/2022 11:40:16 done in 10m 15s
+[        ] Job (rex) finished at 18/10/2022 11:41:07 done in 35s
+---   M2   ---
+[        ] Job started at 18/10/2022 12:15:02
+[        ] Job finished at 18/10/2022 12:26:42 done in 11m 40s
+[        ] Job (rex) finished at 18/10/2022 12:27:39 done in 41s
+---   M1   ---
+[        ] Job started at 18/10/2022 13:00:01
+[        ] Job finished at 18/10/2022 13:22:16 done in 22m 15s
+[        ] Job (rex) finished at 18/10/2022 13:23:20 done in 44s
+---   M3   ---
+[        ] Job started at 18/10/2022 17:30:02
+[        ] Job finished at 18/10/2022 17:40:18 done in 10m 16s
+[        ] Job (rex) finished at 18/10/2022 17:41:10 done in 35s
+---   M2   ---
+[        ] Job started at 18/10/2022 18:15:01
+[        ] Job finished at 18/10/2022 18:26:47 done in 11m 46s
+[        ] Job (rex) finished at 18/10/2022 18:27:45 done in 41s
+---   M1   ---
+[        ] Job started at 18/10/2022 19:00:01
+[        ] Job finished at 18/10/2022 19:25:30 done in 25m 29s
+[        ] Job (rex) finished at 18/10/2022 19:26:33 done in 43s
+---   POR   ---
+[        ] Job started at 18/10/2022 20:00:01
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[        ] Job finished at 18/10/2022 20:01:31 done in 1m 30s
+[        ] Job (rex) finished at 18/10/2022 20:01:47 done in 6s
+---   FRA   ---
+[        ] Job started at 18/10/2022 21:15:01
+[Error   ] no shows in indexpage!
+[        ] Job finished at 18/10/2022 21:16:59 done in 1m 57s
+[        ] Job (rex) finished at 18/10/2022 21:17:18 done in 9s
+---   GER   ---
+[        ] Job started at 18/10/2022 22:30:01
+[Error   ] error downloading page: The method or operation is not implemented. (10sec)
+[Error   ] retry 1 of 2 times
+[Error   ] error downloading page: The method or operation is not implemented. (20sec)
+[Error   ] retry 2 of 2 times
+[Error   ] Unable to update channel TRT Türk GER
+[Error   ] no index page data received from TRT Türk GER
+[Error   ] unable to update channel, try again later
+[Error   ] error downloading page: The method or operation is not implemented. (10sec)
+[Error   ] retry 1 of 2 times
+[Error   ] error downloading page: The method or operation is not implemented. (20sec)
+[Error   ] retry 2 of 2 times
+[Error   ] Unable to update channel KiKa GER HD
+[Error   ] no index page data received from KiKa GER HD
+[Error   ] unable to update channel, try again later
+[        ] Job finished at 18/10/2022 22:35:47 done in 5m 46s
+[        ] Job (rex) finished at 18/10/2022 22:36:03 done in 6s
+<---  FIN  --->
